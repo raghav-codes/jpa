@@ -1,4 +1,4 @@
-package com.raghav.spring.h2.h2;
+package com.raghav.spring.h2;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
